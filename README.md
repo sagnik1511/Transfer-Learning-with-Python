@@ -18,7 +18,9 @@ Transfer Learning Projects with SOTA models
 <a>
   <img align="left" alt="Tensorflow 2" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png"/>
 </a>
-
+<a>
+  <img align="left" alt="Tensorflow 2" width="70px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"/>
+</a>
 
 
 <br>
